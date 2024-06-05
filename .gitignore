@@ -5,3 +5,9 @@
 /.vs/slnx.sqlite
 /.vs/faecafe/v16/.suo
 /.vs/VSWorkspaceState.json
+/.vs/FaeLibrary/v16/.suo
+/FaeLibrary/.vs/FaeLibrary/v16/.suo
+/FaeLibrary/FaeLibrary/obj/Debug/FaeLibrary.csproj.AssemblyReference.cache
+/FaeLibrary/FaeLibrary/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/FaeLibrary/FaeLibrary/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/FaeLibrary/FaeLibrary/Properties/AssemblyInfo.cs
