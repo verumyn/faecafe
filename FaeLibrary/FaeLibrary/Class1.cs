@@ -8,6 +8,8 @@ namespace FaeLibrary
 {
     public class Class1
     {
+        /* a multi-line comment
+         * from leigh! */
         // heck yeah
         // hannah branch
     }
