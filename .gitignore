@@ -26,3 +26,5 @@
 /FaeLibrary/FaeLibrary/bin/Debug
 /FaeLibrary/FaeLibrary/obj/Debug
 /FaeUI/FaeUI/bin/Debug/net8.0-windows
+*.vsidx
+/FaeLibrary/FaeLibrary/.vs/FaeLibrary.csproj.dtbcache.json
