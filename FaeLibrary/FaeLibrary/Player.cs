@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace FaeLibrary
 {
-    public class Class1
+    class Player
     {
-        /* a multi-line comment
-         * from leigh! */
-        // heck yeah
-        // hannah branch
+        string Name { get; set; }
+        int Gold { get; set; }
     }
 }

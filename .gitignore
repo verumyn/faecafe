@@ -30,3 +30,5 @@
 /FaeLibrary/FaeLibrary/obj/Debug
 /FaeUI/FaeUI/.vs/FaeUI/FileContentIndex
 /FaeUI/FaeUI/bin/Debug/net8.0-windows
+*.vsidx
+/FaeLibrary/FaeLibrary/.vs/FaeLibrary.csproj.dtbcache.json
