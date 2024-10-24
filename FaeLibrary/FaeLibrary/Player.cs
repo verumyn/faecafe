@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FaeLibrary
 {
-    class Player
+    public class Player
     {
-        string Name { get; set; }
-        int Gold { get; set; }
+        public string Name { get; set; }
+        public int Gold { get; set; }
     }
 }
