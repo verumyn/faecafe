@@ -19,6 +19,7 @@ namespace FaeUI
     /// </summary>
     public partial class TitleScreen : Window
     {
+        GameScreen gameScreen = new(); //we are "linking" the game screen form
         public TitleScreen()
         {
             InitializeComponent();
@@ -26,7 +27,9 @@ namespace FaeUI
 
         private void StartNewGame(object sender, RoutedEventArgs e)
         {
-            //GameScreen gameScreen = new();
+            gameScreen.Show();
+            /*intriguing lol. this makes the game screen pop up in a new window 
+             * and keeps the title screen up in a separate window*/
         }
 
         private void ContinueLastSave(object sender, RoutedEventArgs e)
