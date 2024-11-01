@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FaeLibrary
 {
-    internal class GameSession
+    public class GameSession
     {
-        Player CurrentPlayer { get; set; }
+        public Player CurrentPlayer { get; set; }
         public GameSession()
         {
             CurrentPlayer = new Player();
